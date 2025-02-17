@@ -48,6 +48,7 @@ const WeatherApp = () => {
 
   return (
     <div className="weather-app">
+      <footer>Edite BY : Abdul Subhan Rahmani</footer>
       <h1>Weather App</h1>
       <div className="search-container">
         <input
